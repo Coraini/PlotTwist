@@ -1,0 +1,137 @@
+Name	Set	ImageFile	Type	Color	Keywords	Text
+Move Action	Beta	moveaction	Action			
+Attack action	Beta	attackaction	Action			
+It's THAT time!	Beta	itsthattime	Combat		Attack, Fighting	
+Superspeed	Beta	superspeed	Combat		Movement, Speedster	
+Teleport	Beta	teleport	Combat		Movement, Teleporter	
+Weapon Throw	Beta	weaponthrow	Combat		Attack, Fighting-5	
+Sweep	Beta	sweep	Combat		Attack, Fighting-4	
+Heal Others	Beta	healothers	Combat		Attack,  Healing-4, Melee Distance	
+Healing Bubble	Beta	healingbubble	Combat		Attack, Healing-5	
+Exploit	Beta	exploit	Combat		Attack, Aim, Fighting	
+Mind Rape	Beta	mindrape	Combat		Psyche-5	
+Cleave	Beta	cleave	Combat		Maneuver	
+Dodge	Beta	dodge	Combat		Maneuver	
+Protect	Beta	protect	Combat		Maneuver	
+Run	Beta	run	Combat		Maneuver	
+Tackle	Beta	tackle	Combat		Maneuver	
+Turtle Up	Beta	turtleup	Combat		Maneuver	
+Suppression	Beta	suppression	Combat		Maneuver	
+Grapple	Beta	grapple	Combat		Maneuver	
+Flanking	Beta	flanking	Combat		Maneuver, Aim	
+Down Sights	Beta	downsights	Combat		Maneuver, Aim	
+Take the Blow	Beta	taketheblow	Combat		Maneuver, Resilience	
+Evade	Beta	evade	Combat		Movement	
+Get Close	Beta	getclose	Combat		Movement	
+Hide	Beta	hide	Combat		Movement	
+Just Jump!	Beta	justjump	Combat		Movement, Body-5	
+Back Off!	Beta	backoff	Combat		Movement	
+Seek Cover	Beta	seekcover	Combat		Movement	
+Telekinetic Shield	Beta	telekineticshield	Combat		Movement, Telekinesis	
+Cybernetic Search	Beta	cyberneticsearch	Combat		Movement, Hacking	
+Invasion	Beta	invasion	Combat		Movement, Hacking-5	
+The Avenger	Alpha	TheAvenger	Equipment	Silver	Melee Weapon, The Captain, Advantage, Shield	
+Enhancing Helmet	Alpha	enhancinghelmet	Equipment	White	Mental Weapon, Psyche X	
+Healing Crystals	Alpha	healingcrystals	Equipment	Green	Healing X	
+Aegis of the Ages	Alpha	aegisoftheages	Equipment	Red	Melee Weapon, Athena, Move	
+The Corpse Maker	Alpha	TheCorpseMaker	Equipment	Blue	Ranged Weapon, The Ratman, Supercharged, Stunner	
+Cao Cao's Tang Dao	Alpha	caocaotangdao	Equipment	White	Melee Weapon, Area Damage	
+Gadgets	Alpha	Gadgets	Equipment	Gold	Ranged Weapon, Stunner, Entangler, Area Damage	
+Wabbajack	Alpha	wabbajack	Equipment	Green	Ranged Weapon, Smiling Jack, Damage Shift, Mental	
+Dragon Breath	Alpha	dragonbreath	Equipment	Red	Ranged Weapon, Supercharged, Destroyer, Area Damage, Persistent	
+Light Lance	Alpha	lightlance	Equipment	Black	Melee Weapon, Dr. Simoakli, Move, Stunner	
+Building Collapse	Beta	buildingcollapse	Event			
+Despair	Beta	despair	Event			
+Evade Pursuit	Beta	evadepursuit	Event			
+Infighting	Beta	infighting	Event			
+Take a Hostage	Beta	takeahostage	Event			
+Time Rift	Beta	timerift	Event			
+The Captain	Alpha	CaptainA	Hero	Silver	Captain, Tactician	
+The Ratman	Alpha	TheRatmanA	Hero	Blue	Inventor, Telekinesis, Overcharged	
+Metal Knight	Alpha	MKnightA	Hero	Black	Sergeant, Armor,  Spirit of the Night, Rich	
+Hope	Alpha	HopeA	Hero	Green	Support, Speedster	
+Athena	Alpha	AthenaA	Hero	Red	Tank, Armor	
+Alex Smith	Alpha	alexsmith	Hero	White	Mentalist, Telekinesis, Mental Armor	
+Mercs	Alpha	mercs	Mook	Gold		
+Street Thugs	Alpha	streetthugs	Mook	Gold		
+Winged Hoplites	Alpha	wingedhoplites	Mook	Black		
+Social Revolution	Alpha	socialrevolution	Objective	Gold	Masterplan	
+Escape the Military	Alpha	escapethemilitary	Objective	Gold	Military Base	
+Steal a Nuclear Reactor	Alpha	stealanuclearreactor	Objective	Gold	Military base	
+Dark Night	Alpha	darknight	Plot	Black	Detail, Metal Knight	
+Prototype XXII	Beta	prototypeXXII	Plot	Gold	Detail, Rich, Ranged Weapon	
+The Stare	Alpha	thestare	Plot	White	Detail, Alex Smith	
+Squad Leader	Beta	squadleader	Plot	Silver	Detail	
+Improvised Pack	Beta	improvisedpack	Plot	Blue	Detail	
+Killing Blow	Beta	killingblow	Plot	Black	Detail	
+Harm Wave	Beta	harmwave	Plot	Green	Detail	
+Metal Skin	Beta	metalskin	Plot	Red	Detail	
+Thought Burst	Beta	thoughtburst	Plot	White	Detail	
+Mind Games	Alpha	mindgames	Plot	White	Detail	
+Overprepared	Alpha	overprepared	Plot	Black	Detail	
+No Scape!	Alpha	noscape	Plot	Gold	Detail, Hero	
+Cure Aura	Alpha	cureaura	Plot	Green	Detail, Hope	
+Heaven's Gate	Alpha	heavensgate	Plot	Gold	Location, Hero	
+Peace	Alpha	peace	Plot	Green	Detail	
+Ricochet Strike	Alpha	ricochetstrike	Plot	Silver	Detail, The Captain	
+Can't Get Me!	Alpha	cantgetme	Plot	Gold	Detail, Hero	
+Intimidate	Alpha	intimidate	Plot	Silver	Detail	
+Rise to godhood	Alpha	risetogodhood	Plot	Red	Detail, Athena	
+Nevada Desert	Alpha	nevadadesert	Plot	Red	Location, Hero	
+Rat Swarm 	Alpha	ratswarm	Plot	Blue	Detail, The Ratman	
+Invention	Alpha	invention	Plot	Blue	Detail	
+Nanobots Heal	Alpha	nanobotsheal	Plot	Gold	Detail	
+A.W.T.S. Metro	Alpha	awtsmetro	Plot	Gold	Detail, Location	
+Santa Monica	Alpha	santamonica	Plot	Gold	Location	
+Villain Lair	Alpha	villainlair	Plot	Gold	Lair	
+4000 A.D.	Alpha	4000ad	Plot	Black	Lair	
+Angelwood Drive	Alpha	angelwooddrive	Plot	Gold	Location	
+Military Base	Alpha	militarybase	Plot	Gold	Location	
+Dragon Temple	Alpha	dragontemple	Plot	Red	Lair	
+Mind of Steel	Beta	mindofsteel	Plot	Gold	Detail	
+Strong Will	Beta	strongwill	Plot	Gold	Detail	
+Fast Feet	Beta	fastfeet	Plot	Gold	Detail	
+Simoakli Helps	Beta	simoaklihelps	Plot	Gold	Detail	
+True Power	Beta	truepower	Plot	Gold	Detail	
+Downtown	Beta	downtown	Plot	Gold	Location	
+Statuses	Alpha	statuses	Reference			
+Reversal of Fortunes	Alpha	reversaloffortunes	Reference			
+Aptitudes	Alpha	aptitudes	Reference			
+Charisma	Alpha	charisma	Reference			
+Energy	Alpha	energy	Reference			
+Belief	Alpha	belief	Reference			
+Hate	Alpha	hate	Reference			
+Experiences	Alpha	experiences	Reference			
+Talents	Alpha	talents	Reference			
+Red Dragon	Alpha	reddragonA	Villain	Red	Armor, Overcharged	
+Dr. Simoakli	Alpha	drsimoakliA	Villain	Black	Armor, Telekinesis	
+Dr. Simoakli - Unbound	Alpha	drsimoakliunboundA	Villain	White	Telekinesis, Mental Armor	
+Smiling Jack	Alpha	smilingjackA	Villain	Green	Teleporter	
+1st Rule: Protect the Innocent	Beta	1struleprotecttheinnocent	Twist!	Gold		
+Always Get Up	Beta	alwaysgetup	Twist!	Gold		
+Cursed Family Picture	Beta	cursedfamilypicture	Twist!	Gold		
+Da Boys in da Hood	Beta	daboysindahood	Twist!	Gold		
+Do You Enjoy Getting Punched?	Beta	doyouenjoygettingpunched	Twist!	Gold		
+Face Me!	Beta	faceme	Twist!	Gold		
+Fratellos	Beta	fratellos	Twist!	Gold		
+Friends in Cosmic Places	Beta	friendsincosmicplaces	Twist!	Gold		
+Girl Power	Beta	girlpower	Twist!	Gold		
+Heroic Stand	Beta	heroicstand	Twist!	Gold		
+Psychic Friends Are The Best	Beta	psychicfriendsarethebest	Twist!	Gold		
+Talent is Built, Not Born	Beta	talentisbuiltnotborn	Twist!	Gold		
+I Was Born With It	Beta	iwasbornwithit	Twist!	Gold		
+You Learn Something Every Day	Beta	youlearnsomethingeveryday	Twist!	Gold		
+2nd Rule: Defend the Weak	Beta	2ndruledefendtheweak	Twist!	Gold		
+3rd Rule: Clobber the Bad Guys	Beta	3rdruleclobberthebadguys	Twist!	Gold		
+Jordan James	Beta	jordanjames	Plot	Gold	Bystander, Angelwood Drive, Downtown	
+Oblivious Cop	Beta	obliviouscop	Plot	Gold	Bystander, Golden Location	
+Mob Enforcer	Beta	mobenforcer	Plot	Gold	Bystander, Heaven's Gate, Santa Monica.	
+Scared Soldier	Beta	scaredsoldier	Plot	Gold	Bystander, Military Base	
+Becca & Summer	Beta	becca&summer	Plot	Gold	Bystander, Heaven's Gate, A.W.T.S. Metro	
+Bunny Colvin	Beta	bunnycolvin	Plot	Gold	Bystander, A.W.T.S. Metro, Downtown, Heave's Gate	
+Watson Kovacs	Beta	watsonkovacs	Plot	Gold	Bystander, Cannot be Played	
+Metro Conductor	Beta	metroconductor	Plot	Gold	Bystander, A.W.T.S. Metro	
+Hillbilly	Beta	hillbilly	Plot	Red	Bystander, Nevada Desert	
+Club Bouncer	Beta	clubbouncer	Plot	Gold	Bystander, Angelwood Drive, Santa Monica	
+Augur	Beta	augur	Plot	Gold	Detail	
+Cab Driver	Beta	cabdriver	Plot	Gold	Bystander, Golden Location	
