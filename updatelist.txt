@@ -1,8 +1,0 @@
-PlotTwist	08-22-21
-plugins/plottwist/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/pluginpreferences.txt	225312
-plugins/plottwist/defaultchat.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/defaultchat.txt	11709
-plugins/plottwist/plugininfo.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/plugininfo.txt	403884
-plugins/plottwist/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/updatelist.txt	305858
-
-CardGeneralURLs: 
-https://raw.githubusercontent.com/Coraini/PlotTwist/main/
