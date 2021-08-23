@@ -1,0 +1,98 @@
+<plugin>
+
+<deckzone>
+      <label>Combat Deck</label>
+ </deckzone>
+
+<deckzone>
+      <label>Character Cards</label>
+ </deckzone>
+
+<deckzone>
+      <label>Collection</label>
+ </deckzone>
+
+<gamezone>
+      <label>Combat Hand</label>
+      <visibletoowner>yes</visibletoowner>
+ </gamezone>
+
+<gamezone>
+      <label>Combat Deck</label>
+ </gamezone>
+
+<gamezone>
+      <label>Combat Discard</label>
+      <visibletoowner>yes</visibletoowner>
+      <visibletoothers>yes</visibletoothers>
+ </gamezone>
+
+<gamezone>
+      <label>Plot Hand</label>
+      <visibletoowner>yes</visibletoowner>
+ </gamezone>
+
+<gamezone>
+      <label>Plot Discard</label>
+      <visibletoowner>yes</visibletoowner>
+      <visibletoothers>yes</visibletoothers>
+ </gamezone>
+
+<gamezone>
+      <label>Character Cards</label>
+ 	<visibletoowner>yes</visibletoowner>
+ </gamezone>
+
+<gamezone>
+      <label>Twists</label>
+	<visibletoothers>yes</visibletoothers>
+	<visibletoowner>yes</visibletoowner>
+     	<isshared>yes</isshared>
+ </gamezone>
+
+<gamezone>
+      <label>Collection</label>
+      <visibletoowner>yes</visibletoowner>
+ </gamezone>
+
+ 
+ <phase><label>Start of Turn</label></phase>
+ <phase><label>Movement</label></phase>
+<phase><label>Maneuver</label></phase>
+ <phase><label>Attack</label></phase>
+ <phase><label>End of Turn</label></phase>
+
+
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+<cardfunction><label>Stand</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Stun</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Prone</label><kind>MAKERIGHT270DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Surprised</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Flip</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+Belief</label><kind>ADDCOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>1.05</PositionY></cardfunction>
+<cardfunction><label>-Belief</label><kind>REMOVECOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+Energy</label><kind>ADDCOUNTER</kind><color>yellow</color><includeasbutton>yes</includeasbutton><PositionX>0.85</PositionX><PositionY>0.85</PositionY></cardfunction>
+<cardfunction><label>-Energy</label><kind>REMOVECOUNTER</kind><color>yellow</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+Physical</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>0.05</PositionX><PositionY>0.05</PositionY></cardfunction>
+<cardfunction><label>-Physical</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+PhyTra</label><kind>ADDCOUNTER</kind><color>orange</color><includeasbutton>yes</includeasbutton><PositionX>0.05</PositionX><PositionY>0.35</PositionY></cardfunction>
+<cardfunction><label>-PhyTra</label><kind>REMOVECOUNTER</kind><color>orange</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+Mental</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>0.05</PositionY></cardfunction>
+<cardfunction><label>-Mental</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+MenTra</label><kind>ADDCOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>0.35</PositionY></cardfunction>
+<cardfunction><label>-MenTra</label><kind>REMOVECOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+Social</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.85</PositionX><PositionY>0.05</PositionY></cardfunction>
+<cardfunction><label>-Social</label><kind>REMOVECOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>+Hate</label><kind>ADDCOUNTER</kind><color>violet</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>1.05</PositionY></cardfunction>
+<cardfunction><label>-Hate</label><kind>REMOVECOUNTER</kind><color>violet</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind></cardfunction>
+
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>yes</value></definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+
+
+</plugin>
