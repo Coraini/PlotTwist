@@ -1,4 +1,4 @@
-PlotTwist	07-09-21
+PlotTwist	08-22-21
 plugins/plottwist/pluginpreferences.txt	https://github.com/Coraini/PlotTwist/blob/main/pluginpreferences.txt	225312
 plugins/plottwist/defaultchat.txt	https://github.com/Coraini/PlotTwist/blob/main/defaultchat.txt	11709
 plugins/plottwist/plugininfo.txt	https://github.com/Coraini/PlotTwist/blob/main/plugininfo.txt	403884
