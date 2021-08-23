@@ -7,7 +7,7 @@ Teleport	Beta	teleport	Combat		Movement, Teleporter
 Weapon Throw	Beta	weaponthrow	Combat		Attack, Fighting-5	
 Sweep	Beta	sweep	Combat		Attack, Fighting-4	
 Heal Others	Beta	healothers	Combat		Attack,  Healing-4, Melee Distance	
-Intevene	Beta	Intervene	Combat		Maneuver	
+Intevene	Beta	intervene	Combat		Maneuver	
 Healing Bubble	Beta	healingbubble	Combat		Attack, Healing-5	
 Exploit	Beta	exploit	Combat		Attack, Aim, Fighting	
 Mind Rape	Beta	mindrape	Combat		Psyche-5	
