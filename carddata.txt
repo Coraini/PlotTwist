@@ -24,7 +24,6 @@ Down Sights	Beta	downsights	Combat		Maneuver, Aim
 Take the Blow	Beta	taketheblow	Combat		Maneuver, Resilience	
 Evade	Beta	evade	Combat		Movement	
 Get Close	Beta	getclose	Combat		Movement	
-Hide	Beta	hide	Combat		Movement	
 Just Jump!	Beta	justjump	Combat		Movement, Body-5	
 Back Off!	Beta	backoff	Combat		Movement	
 Seek Cover	Beta	seekcover	Combat		Movement	
