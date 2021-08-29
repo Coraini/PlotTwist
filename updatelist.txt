@@ -2,9 +2,9 @@ PlotTwist	08-22-21
 plugins/plottwist/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/pluginpreferences.txt	225352
 plugins/plottwist/defaultchat.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/defaultchat.txt	11752
 plugins/plottwist/plugininfo.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/plugininfo.txt	403885
-plugins/plottwist/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/carddata.txt	1199568
+plugins/plottwist/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/carddata.txt	119968
 plugins/plottwist/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/PlotTwist/main/cardback.jpg	25852
-plugins/plottwist/rulebook.pdf	https://raw.githubusercontent.com/Coraini/PlotTwist/main/rulebook.pdf	224956
+plugins/plottwist/rulebook.pdf	https://raw.githubusercontent.com/Coraini/PlotTwist/main/rulebook.pdf	2246956
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/PlotTwist/main/
