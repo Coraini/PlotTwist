@@ -4,7 +4,7 @@ plugins/plottwist/defaultchat.txt	https://raw.githubusercontent.com/Coraini/Plot
 plugins/plottwist/plugininfo.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/plugininfo.txt	403885
 plugins/plottwist/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/PlotTwist/main/carddata.txt	119968
 plugins/plottwist/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/PlotTwist/main/cardback.jpg	25852
-plugins/plottwist/rulebook.pdf	https://raw.githubusercontent.com/Coraini/PlotTwist/main/rulebook.pdf	2246956
+plugins/plottwist/rulebook.pdf	https://raw.githubusercontent.com/Coraini/PlotTwist/main/rulebook.pdf	22466
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/PlotTwist/main/
