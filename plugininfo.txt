@@ -59,9 +59,11 @@
 
  
  <phase><label>Start of Turn</label></phase>
+<phase><label>Start of Combat</label></phase>
  <phase><label>Movement</label></phase>
 <phase><label>Maneuver</label></phase>
  <phase><label>Attack</label></phase>
+<phase><label>End of Combat</label></phase>
  <phase><label>End of Turn</label></phase>
 
 
