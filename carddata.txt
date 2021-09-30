@@ -18,7 +18,7 @@ Run	Beta	run	Combat		Maneuver
 Tackle	Beta	tackle	Combat		Maneuver	
 Turtle Up	Beta	turtleup	Combat		Maneuver	
 Suppression	Beta	suppression	Combat		Maneuver	
-Grapple	Beta	grapple	Combat		Maneuver	
+Eternal Grapple	Beta	grapple	Combat		Maneuver	
 Flanking	Beta	flanking	Combat		Maneuver, Aim	
 Down Sights	Beta	downsights	Combat		Maneuver, Aim	
 Take the Blow	Beta	taketheblow	Combat		Maneuver, Resilience	
