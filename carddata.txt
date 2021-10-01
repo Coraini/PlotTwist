@@ -1,3 +1,8 @@
+Name	Set	ImageFile	Type	Color	Keywords	Text
+Move Action	Beta	moveaction	Action			
+Attack action	Beta	attackaction	Action			
+It's THAT time!	Beta	itsthattime	Combat		Attack, Fighting	
+Superspeed	Beta	superspeed	Combat		Movement, Speedster	
 Bamf!	Beta	bamf	Combat		Movement, Teleporter	
 Weapon Throw	Beta	weaponthrow	Combat		Attack, Fighting-5	
 Sweep	Beta	sweep	Combat		Attack, Fighting-4	
@@ -13,7 +18,7 @@ Run	Beta	run	Combat		Maneuver
 Tackle	Beta	tackle	Combat		Maneuver	
 Turtle Up	Beta	turtleup	Combat		Maneuver	
 Suppression	Beta	suppression	Combat		Maneuver	
-Eternal Grapple	Beta	grapple	Combat		Maneuver	
+Grapple	Beta	grapple	Combat		Maneuver	
 Flanking	Beta	flanking	Combat		Maneuver, Aim	
 Down Sights	Beta	downsights	Combat		Maneuver, Aim	
 Take the Blow	Beta	taketheblow	Combat		Maneuver, Resilience	
@@ -83,6 +88,8 @@ Villain Lair	Alpha	villainlair	Plot	Gold	Lair
 Angelwood Drive	Alpha	angelwooddrive	Plot	Gold	Location	
 Military Base	Alpha	militarybase	Plot	Gold	Location	
 Dragon Temple	Alpha	dragontemple	Plot	Red	Lair	
+Mind of Steel	Beta	mindofsteel	Plot	Gold	Detail	
+Strong Will	Beta	strongwill	Plot	Gold	Detail	
 Fast Feet	Beta	fastfeet	Plot	Gold	Detail	
 Simoakli Helps	Beta	simoaklihelps	Plot	Gold	Detail	
 True Power	Beta	truepower	Plot	Gold	Detail	
