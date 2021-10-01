@@ -89,7 +89,6 @@ Angelwood Drive	Alpha	angelwooddrive	Plot	Gold	Location
 Military Base	Alpha	militarybase	Plot	Gold	Location	
 Dragon Temple	Alpha	dragontemple	Plot	Red	Lair	
 Mind of Steel	Beta	mindofsteel	Plot	Gold	Detail	
-Strong Will	Beta	strongwill	Plot	Gold	Detail	
 Fast Feet	Beta	fastfeet	Plot	Gold	Detail	
 Simoakli Helps	Beta	simoaklihelps	Plot	Gold	Detail	
 True Power	Beta	truepower	Plot	Gold	Detail	
