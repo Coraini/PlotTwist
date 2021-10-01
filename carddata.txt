@@ -1,9 +1,4 @@
-Name	Set	ImageFile	Type	Color	Keywords	Text
-Move Action	Beta	moveaction	Action			
-Attack action	Beta	attackaction	Action			
-It's THAT time!	Beta	itsthattime	Combat		Attack, Fighting	
-Superspeed	Beta	superspeed	Combat		Movement, Speedster	
-Teleport	Beta	teleport	Combat		Movement, Teleporter	
+Bamf!	Beta	bamf	Combat		Movement, Teleporter	
 Weapon Throw	Beta	weaponthrow	Combat		Attack, Fighting-5	
 Sweep	Beta	sweep	Combat		Attack, Fighting-4	
 Heal Others	Beta	healothers	Combat		Attack,  Healing-4, Melee Distance	
