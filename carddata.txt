@@ -140,3 +140,4 @@ Hillbilly	Beta	hillbilly	Plot Bystander	Red	Nevada Desert
 Club Bouncer	Beta	clubbouncer	Plot Bystander	Gold	Angelwood Drive, Santa Monica	
 Augur	Beta	augur	Plot Detail	Gold		
 Cab Driver	Beta	cabdriver	Plot Bystander	Gold	Golden Location	
+Ares	Beta	ares	Ally	Red		
