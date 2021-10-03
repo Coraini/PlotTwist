@@ -53,6 +53,13 @@
  </gamezone>
 
 <gamezone>
+      <label>Events</label>
+	<visibletoothers>yes</visibletoothers>
+	<visibletoowner>yes</visibletoowner>
+     	<isshared>yes</isshared>
+ </gamezone>
+
+<gamezone>
       <label>Collection</label>
       <visibletoowner>yes</visibletoowner>
  </gamezone>
