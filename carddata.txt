@@ -95,10 +95,10 @@ True Power	Beta	truepower	 Plot Detail	Gold
 Downtown	Beta	downtown	Plot Location	Gold		
 F&F RPG Party	Promo	ffrpgparty	Plot Detail	Gold		
 F&F RPG Group	Promo	ffrpggroup	Plot Bystander	Gold		
-Oriahe	Promo	oriahe	Plot Bystander	Gold		
-Atrus	Promo	atrus	Plot Bystander	Gold		
-Jean Michel	Promo	jeanmichel	Plot Bystander	Gold		
-Jarvis	Promo	jarvis	Plot Bystander	Gold		
+Oriahe	Promo	oriahe	Plot Detail	Gold		
+Atrus	Promo	atrus	Plot Detail	Gold		
+Jean Michel	Promo	jeanmichel	Plot Detail	Gold		
+Jarvis	Promo	jarvis	Plot Detail	Gold		
 Statuses	Alpha	statuses	Reference			
 Reversal of Fortunes	Alpha	reversaloffortunes	Reference			
 Aptitudes	Alpha	aptitudes	Reference			
