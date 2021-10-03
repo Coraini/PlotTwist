@@ -94,7 +94,7 @@ Simoakli Helps	Beta	simoaklihelps	 Plot Detail	Gold
 True Power	Beta	truepower	 Plot Detail	Gold		
 Downtown	Beta	downtown	Plot Location	Gold		
 F&F RPG Party	Promo	ffrpgparty	Plot Detail	Gold		
-F&F RPG Group	Promo	ffrpgroup	Plot Bystander	Gold		
+F&F RPG Group	Promo	ffrpggroup	Plot Bystander	Gold		
 Oriahe	Promo	oriahe	Plot Bystander	Gold		
 Atrus	Promo	atrus	Plot Bystander	Gold		
 Jean Michel	Promo	jeanmichel	Plot Bystander	Gold		
